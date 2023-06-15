@@ -1,0 +1,4 @@
+Reading [tipo=temperatura, valore=8]
+Reading [tipo=temperatura, valore=23]
+Reading [tipo=temperatura, valore=20]
+Reading [tipo=temperatura, valore=18]

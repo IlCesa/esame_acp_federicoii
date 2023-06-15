@@ -1,0 +1,131 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Cliente - Stazione</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">  
+  
+</head>
+
+  <body>
+    
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Cliente</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <!--<div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Features</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Pricing</a>
+            </li>
+          </ul>
+          <span class="navbar-text">
+            Navbar text with an inline element
+          </span>
+        </div>-->
+      </nav>
+
+
+
+   <!-- <header>
+      <div class="container">
+        <h1>RegistraUtente</h1>
+      </div>
+    </header>-->
+
+
+    <main>
+
+       
+
+      <div class="container">
+
+        <nav style="margin-top: 50px;">
+          <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <button class="nav-link active" id="nav-home-tab" data-toggle="tab" data-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">RegistraUtente</button>
+            
+            <button class="nav-link" id="nav-contact-tab" data-toggle="tab" data-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Altro</button>
+          </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+          <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+
+
+            <!--<section style="margin-top: 50px;">
+              <h2>RegistraUtente</h2>
+          </section>-->
+  
+          <form id="form_registrazione" style="margin-top: 50px;">
+              <div class="form-row">
+                <div class="form-group col-md-6">
+                  <label for="inputEmail4">Nome</label>
+                  <input type="text" class="form-control" id="nome" placeholder="Ex Mario">
+                </div>
+                <div class="form-group col-md-6">
+                  <label for="inputPassword4">Cognome</label>
+                  <input type="text" class="form-control" id="cognome" placeholder="Ex Rossi">
+                </div>
+              </div>
+              <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="inputAddress">Codice Fiscale</label>
+                <input type="text" class="form-control" id="cf" placeholder="CODICE FISCALE">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="inputAddress2">Nascita</label>
+                <input type="date" class="form-control" id="nascita" placeholder="dd/MM/YYYY">
+              </div>
+          </div>
+              <div class="form-row">
+                <div class="form-group col-md-6">
+                  <label for="inputCity">Credito</label>
+                  <input type="text" class="form-control" id="credito">
+                </div>
+              </div>
+              <button type="submit" class="btn btn-primary" id="btnRegistra">Registra</button>
+            </form>
+
+
+
+
+
+
+          </div>
+
+          
+          <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">Prossimamente...</div>
+
+
+        </div>
+          
+        
+
+
+      </div>
+    </main>
+
+    <!--<footer>
+      <div class="container">
+        <div class="contact">
+          <h5>Contact Us</h5>
+          <p>Shopping time</p>
+          <p>@UNINA</p>
+        </div>
+      </div>
+    </footer>-->
+
+    <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

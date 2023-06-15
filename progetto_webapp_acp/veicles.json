@@ -1,0 +1,494 @@
+[
+    {
+        "codice": "4",
+        "marca": "Aiways",
+        "modello": "U5",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "5",
+        "marca": "Audi",
+        "modello": "e-tron",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "6",
+        "marca": "Audi",
+        "modello": "e-tron Sportback",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "7",
+        "marca": "Audi",
+        "modello": "Q4 e-tron",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "8",
+        "marca": "Audi",
+        "modello": "Q4 e-tron Sportback",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "9",
+        "marca": "Audi",
+        "modello": "e-tron GT quattro",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "10",
+        "marca": "Audi",
+        "modello": "RS e-tron GT quattro",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "11",
+        "marca": "BMW",
+        "modello": "i3",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "12",
+        "marca": "BMW",
+        "modello": "X1",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "13",
+        "marca": "BMW",
+        "modello": "i4",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "14",
+        "marca": "BMW",
+        "modello": "iX",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "15",
+        "marca": "BMW",
+        "modello": "iX3",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "16",
+        "marca": "BMW",
+        "modello": "i7",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "17",
+        "marca": "Citroën",
+        "modello": "ë-C4",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "18",
+        "marca": "Citroën",
+        "modello": "C4 X",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "19",
+        "marca": "Citroën",
+        "modello": "Ami",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "20",
+        "marca": "Cupra",
+        "modello": "Born",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "21",
+        "marca": "Dacia",
+        "modello": "Spring",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "22",
+        "marca": "DR",
+        "modello": "Evo Electric",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "23",
+        "marca": "DS",
+        "modello": "DS 3 Crossback E-Tense",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "24",
+        "marca": "Fiat",
+        "modello": "500e",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "25",
+        "marca": "Fiat",
+        "modello": "500C Electric",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "26",
+        "marca": "Ford",
+        "modello": "Mustang Mach-E",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "27",
+        "marca": "Honda",
+        "modello": "Honda-e",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "28",
+        "marca": "Hyundai",
+        "modello": "Kona Electric",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "29",
+        "marca": "Hyundai",
+        "modello": "Ioniq 5",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "30",
+        "marca": "Hyundai",
+        "modello": "Ioniq 6",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "31",
+        "marca": "Jaguar",
+        "modello": "I-Pace",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "32",
+        "marca": "Kia",
+        "modello": "EV6",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "33",
+        "marca": "Kia",
+        "modello": "e-Niro",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "34",
+        "marca": "Kia",
+        "modello": "e-Soul",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "35",
+        "marca": "Lexus",
+        "modello": "UX 300e",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "36",
+        "marca": "Lexus",
+        "modello": "RZ 450e",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "37",
+        "marca": "Mazda",
+        "modello": "MX-30",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "38",
+        "marca": "Mercedes",
+        "modello": "EQA",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "39",
+        "marca": "Mercedes",
+        "modello": "EQB",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "40",
+        "marca": "Mercedes",
+        "modello": "EQC",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "41",
+        "marca": "Mercedes",
+        "modello": "EQE",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "42",
+        "marca": "Mercedes",
+        "modello": "EQS",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "43",
+        "marca": "Mercedes",
+        "modello": "EQS SUV",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "44",
+        "marca": "Mercedes-AMG",
+        "modello": "EQS",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "45",
+        "marca": "MG",
+        "modello": "ZS EV",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "46",
+        "marca": "MG",
+        "modello": "Marvel R Electric",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "47",
+        "marca": "MG",
+        "modello": "MG5 Electric",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "48",
+        "marca": "MG",
+        "modello": "MG4 Electric",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "49",
+        "marca": "Mini",
+        "modello": "Cooper SE",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "50",
+        "marca": "Nissan",
+        "modello": "Leaf",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "51",
+        "marca": "Nissan",
+        "modello": "Ariya",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "52",
+        "marca": "Opel",
+        "modello": "Corsa-e",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "53",
+        "marca": "Opel",
+        "modello": "Mokka-e",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "54",
+        "marca": "Peugeot",
+        "modello": "e-208",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "55",
+        "marca": "Peugeot",
+        "modello": "e-2008",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "56",
+        "marca": "Porsche",
+        "modello": "Taycan",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "57",
+        "marca": "Porsche",
+        "modello": "Taycan Cross Turismo",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "58",
+        "marca": "Porsche",
+        "modello": "Taycan GTS",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "59",
+        "marca": "Renault",
+        "modello": "Mégane E-TECH Electric",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "60",
+        "marca": "Renault",
+        "modello": "Zoe",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "61",
+        "marca": "Renault",
+        "modello": "Twingo Electric",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "62",
+        "marca": "Seres",
+        "modello": "Seres 3",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "63",
+        "marca": "Skoda",
+        "modello": "Enyaq iV",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "64",
+        "marca": "Smart",
+        "modello": "EQ Fortwo",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "65",
+        "marca": "Smart",
+        "modello": "EQ Fortwo cabrio",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "66",
+        "marca": "Smart",
+        "modello": "#1 SUV",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "67",
+        "marca": "Subaru",
+        "modello": "Solterra",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "68",
+        "marca": "Tesla",
+        "modello": "Model 3 50 kWh RWD",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "69",
+        "marca": "Tesla",
+        "modello": "Model 3 Long Range",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "70",
+        "marca": "Tesla",
+        "modello": "Model 3 Performance",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "71",
+        "marca": "Tesla",
+        "modello": "Model S",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "72",
+        "marca": "Tesla",
+        "modello": "Model S Plaid",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "73",
+        "marca": "Tesla",
+        "modello": "Model X Long Range",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "74",
+        "marca": "Tesla",
+        "modello": "Model X Plaid",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "75",
+        "marca": "Tesla",
+        "modello": "Model Y Long Range",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "76",
+        "marca": "Tesla",
+        "modello": "Model Y Performance",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "77",
+        "marca": "Toyota",
+        "modello": "bZ4X",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "78",
+        "marca": "Volkswagen",
+        "modello": "ID.3",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "79",
+        "marca": "Volkswagen",
+        "modello": "ID.4",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "80",
+        "marca": "Volkswagen",
+        "modello": "ID.4 GTX",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "81",
+        "marca": "Volkswagen",
+        "modello": "ID.5",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "82",
+        "marca": "Volkswagen",
+        "modello": "ID.5 GTX",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "83",
+        "marca": "Volkswagen",
+        "modello": "e-up!",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "84",
+        "marca": "Volvo",
+        "modello": "XC40 Recharge",
+        "fornitore": "azienda srl"
+    },
+    {
+        "codice": "85",
+        "marca": "Volvo",
+        "modello": "C40 Recharge",
+        "fornitore": "azienda srl"
+    }
+]

@@ -1,0 +1,5 @@
+Reading [tipo=pressione, valore=23]
+Reading [tipo=pressione, valore=11]
+Reading [tipo=pressione, valore=15]
+Reading [tipo=pressione, valore=35]
+Reading [tipo=pressione, valore=43]
